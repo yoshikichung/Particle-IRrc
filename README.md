@@ -1,4 +1,4 @@
-# IRrc Paricle Library
+# Paricle-IRrc
 
 Infrared remote control library for Particle. 
 This library enables you to send and receive infrared signals on Particle.
